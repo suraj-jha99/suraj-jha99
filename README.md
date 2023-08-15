@@ -1,16 +1,16 @@
 <h1 align="center">Hi there! 👋, I'm Suraj Jha</h1>
-<h3 align="center">Pursuing B.Tech in IT(3rd year) from Netaji Subhas University of Technology,Delhi</h3>
+<h3 align="center">Pursuing B.Tech in IT(final year) from Netaji Subhas University of Technology,Delhi</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj-jha99&label=Profile%20views&color=0e75b6&style=flat" alt="suraj-jha99" /> </p>
 
 <p align="left"> <a href="https://twitter.com/suraj_jha989" target="blank"><img src="https://img.shields.io/twitter/follow/suraj_jha989?logo=twitter&style=for-the-badge" alt="suraj_jha989" /></a> </p>
 
-- 🔭 I’m currently working on **Portfolio Project**
+- 🔭 I’m currently working at **Hike** as a **Software Development Intern**
 
-- 🌱 I’m currently learning **AI and ML**
+- 🌱 I’ve around **five months** experience as a **Software Developer**
 
-- 💬 Ask me about **MERN,DSA and computer fundamentals**
+- 💬 Ask me about **Unity Game Development, Web Development, MERN, DSA and computer fundamentals**
 
 - 📫 How to reach me **sarcasticsuraj7048@gmail.com**
 
