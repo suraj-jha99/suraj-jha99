@@ -8,9 +8,11 @@
 
 - 🔭 I’m currently working at **CommerceIQ** as a **Software Development Intern - Java Backend**
 
-- 🌱 I’ve around **nine months**of work experience as a **Software Developer**
+- 🌱 I’ve around **nine months** of work experience as a **Software Developer**
 
 - 💬 Ask me about **Backend Development, Spring Framework, Spring Framework, Node Js, Express Js, React Js, DSA and Unity Game Development**
+
+- 👨‍💻 All of my projects are available at **https://suraj-jha-nu.vercel.app/**
 
 - 📫 How to reach me **sarcasticsuraj7048@gmail.com**
 
