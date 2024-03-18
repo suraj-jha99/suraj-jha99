@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/suraj_jha989" target="blank"><img src="https://img.shields.io/twitter/follow/suraj_jha989?logo=twitter&style=for-the-badge" alt="suraj_jha989" /></a> </p>
 
-- 🔭 I’m currently working at **Hike** as a **Software Development Intern**
+- 🔭 I’m currently working at **CommerceIQ** as a **Software Development Intern - Java Backend**
 
-- 🌱 I’ve around **five months** experience as a **Software Developer**
+- 🌱 I’ve around **nine months**of work experience as a **Software Developer**
 
-- 💬 Ask me about **Unity Game Development, Web Development, MERN, DSA and computer fundamentals**
+- 💬 Ask me about **Backend Development, Spring Framework, Spring Framework, Node Js, Express Js, React Js, DSA and Unity Game Development**
 
 - 📫 How to reach me **sarcasticsuraj7048@gmail.com**
 
